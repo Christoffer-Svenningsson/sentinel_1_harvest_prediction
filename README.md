@@ -1,1 +1,1 @@
-# Winter Wheat Harvest PredictionUsing Primarily Satellite Radar Data from Sentinel-1
+# Winter Wheat Harvest Prediction Using Primarily Satellite Radar Data from Sentinel-1
