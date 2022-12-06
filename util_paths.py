@@ -5,9 +5,9 @@ import os
 import re
 import gzip
 
-SWEDEN = "swedish_border.geojson"
+SWEDEN = "resources/swedish_border.geojson"
 
-HARVEST_17_20_AOI_FILE = "aoi_year_17_to_20.geojson"
+HARVEST_17_20_AOI_FILE = "resources/aoi_year_17_to_20.geojson"
 
 HARVEST_20_AOI_FILE = "/mimer/NOBACKUP/groups/snic2022-23-428/shared_oliver_christoffer/aois/aoi_2020.geojson"
 
